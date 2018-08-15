@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "邬小达"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,25 +13,26 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "首页"
+    url = "/post/"
     weight = 1
 [[menu.main]]
-    name = "About"
+    name = "关于"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "博客"
+    url = "/post/"
     weight = 3
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "笔记"
+    url = "/note/"
     weight = 4
 [[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "标签"
+    url = "/tags/"
+    weight = 5
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2018 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [Github](https://github.com/wuxiaoda/WxdBlog) 2017 -- 2018 | [知乎](https://www.zhihu.com/people/wu-xian-da-94/activities)"

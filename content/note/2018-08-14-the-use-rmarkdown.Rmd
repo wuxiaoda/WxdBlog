@@ -1,0 +1,41 @@
+---
+title: RMarkdown语法
+author: Xiaoda Wu
+date: '2018-08-14'
+slug: youareright
+categories: []
+tags: 
+  - RMarkdown语法
+---
+
+
+## 代码块
+
+```
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+```
+
+## 索引
+
+a foot note^[Hear is the footnote]
+
+
+## 粗体
+
+_italic_ / **bold**
+
+`inline code`
+
+##  链接
+
+[blogdown](https://bookdown.org/yihui/blogdown/) 
+
+## 公式
+
+`$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
+
+## 引用
+
+> block quote
