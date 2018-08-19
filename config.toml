@@ -14,7 +14,7 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
     name = "首页"
-    url = "/post/"
+    url = "/blog/"
     weight = 1
 [[menu.main]]
     name = "关于"
@@ -22,7 +22,7 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 [[menu.main]]
     name = "博客"
-    url = "/post/"
+    url = "/blog/"
     weight = 3
 [[menu.main]]
     name = "笔记"

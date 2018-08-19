@@ -6,62 +6,34 @@
     <description>Recent content in Tags on 邬小达</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blogdown</title>
-      <link>/tags/blogdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>二级效应</title>
+      <link>/tags/%E4%BA%8C%E7%BA%A7%E6%95%88%E5%BA%94/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blogdown/</guid>
+      <guid>/tags/%E4%BA%8C%E7%BA%A7%E6%95%88%E5%BA%94/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Markdown</title>
-      <link>/tags/markdown/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>多元思维</title>
+      <link>/tags/%E5%A4%9A%E5%85%83%E6%80%9D%E7%BB%B4/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>/tags/%E5%A4%9A%E5%85%83%E6%80%9D%E7%BB%B4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MathJax</title>
-      <link>/tags/mathjax/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>概率</title>
+      <link>/tags/%E6%A6%82%E7%8E%87/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mathjax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pandoc</title>
-      <link>/tags/pandoc/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pandoc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RMarkdown语法</title>
-      <link>/tags/rmarkdown%E8%AF%AD%E6%B3%95/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rmarkdown%E8%AF%AD%E6%B3%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RStudio</title>
-      <link>/tags/rstudio/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rstudio/</guid>
+      <guid>/tags/%E6%A6%82%E7%8E%87/</guid>
       <description></description>
     </item>
     

@@ -13,10 +13,10 @@
     
     <item>
       <title>RMarkdown语法</title>
-      <link>/note/2018/08/14/youareright/</link>
+      <link>/post/2018/08/14/youareright/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/note/2018/08/14/youareright/</guid>
+      <guid>/post/2018/08/14/youareright/</guid>
       <description>代码块[permalinks]post = &amp;quot;/post/:year/:month/:day/:slug/&amp;quot;note = &amp;quot;/note/:year/:month/:day/:slug/&amp;quot;索引a foot note1
 粗体italic / bold
 inline code

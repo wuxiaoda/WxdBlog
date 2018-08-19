@@ -3,27 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/note/2018/08/14/youareright/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+    <loc>/blog/secondary_effect/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/note/2016/02/14/a-plain-markdown-post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>/blog/exchange/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2016/02/14/a-plain-markdown-post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>/blog/the_key_of_the_problem/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/blog/concentration_or_dispersion/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/blogdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -33,68 +34,35 @@
   </url>
   
   <url>
-    <loc>/categories/example/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/hugo/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mathjax/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/note/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pandoc/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/rmarkdown%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/rstudio/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E4%BA%8C%E7%BA%A7%E6%95%88%E5%BA%94/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%A4%9A%E5%85%83%E6%80%9D%E7%BB%B4/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%A6%82%E7%8E%87/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

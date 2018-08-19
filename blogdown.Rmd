@@ -1,0 +1,54 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## Hugo 
+
+C:\ProgramData\chocolatey\lib\hugo\tools
+
+blogdown(https://bookdown.org/yihui/blogdown/)
+
+## 默认options设置
+
+file.edit("~/.Rprofile")
+
+## 预览网页
+
+```{r}
+blogdown::serve_site()
+```
+
+
+## 新建一个md文件，最好手动操作，不然RStudio会崩溃
+
+```{r}
+blogdown::new_post()
+```
+
+
+## 更新title，categories，tags等。打开一个md文件之后操作该命令
+
+Update Metadata
+
+## 插入图片
+
+```{r}
+![](/path/to/my/image.png)
+```
+
+blogdown默认搜索的图片路径是/static下，因此/path/to/my/image.png的上一级目录就是/static
+
+
+## 更换主题
+
+```{r}
+blogdown::new_site(theme = "yihui/hugo-xmin")
+```
+
+
+## 发布
+
+```{r}
+blogdown::hugo_build()
+```
