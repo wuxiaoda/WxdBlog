@@ -1,6 +1,5 @@
 ---
 title: 问题的关键
-author: Xiaoda Wu
 date: '2018-08-19'
 slug: The_key_of_the_problem
 categories: []

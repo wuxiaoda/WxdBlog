@@ -1,6 +1,5 @@
 ---
 title: 交流
-author: Xiaoda Wu
 date: '2018-08-19'
 slug: exchange
 categories: []
