@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+https://wuxiaoda.netlify.com/* https://www.wuxiaoda.cn/:splat 301!
+
+# These extra rules are required because HTTPS is not forced
+http://wuxiaoda.netlify.com/* https://www.wuxiaoda.cn/:splat 301!
