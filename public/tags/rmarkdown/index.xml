@@ -1,31 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>RMarkdown on 邬小达</title>
-    <link>/tags/rmarkdown/</link>
-    <description>Recent content in RMarkdown on 邬小达</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>RMarkdown</title>
-      <link>/post/2018/08/14/youareright/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/08/14/youareright/</guid>
-      <description>代码块[permalinks]post = &amp;quot;/post/:year/:month/:day/:slug/&amp;quot;note = &amp;quot;/note/:year/:month/:day/:slug/&amp;quot;索引a foot note1
-粗体italic / bold
-inline code
-链接blogdown
-公式$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$
-引用block quote
-Hear is the footnote↩
-</description>
-    </item>
-    
-  </channel>
-</rss>

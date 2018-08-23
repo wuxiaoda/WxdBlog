@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "邬小达"
+title = "邬贤达"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
@@ -9,16 +9,16 @@ preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+    blog = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "关于"
-    url = "/about/"
-    weight = 1
-[[menu.main]]
     name = "博客"
     url = "/"
+    weight = 1
+[[menu.main]]
+    name = "关于"
+    url = "/about/"
     weight = 2
 [[menu.main]]
     name = "标签"
@@ -27,4 +27,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Github](https://github.com/wuxiaoda/WxdBlog) 2017 -- 2018 | [知乎](https://www.zhihu.com/people/wu-xian-da-94/activities)"
+    footer = "&copy; [Github](https://github.com/wuxiaoda/WxdBlog) 2018 -- 2019 | [知乎](https://www.zhihu.com/people/wu-xian-da-94/activities)"
