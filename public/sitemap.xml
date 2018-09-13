@@ -3,43 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2018/09/02/happiness/</loc>
+    <loc>/post/ocean_of_consciousness/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/little_habits_to_improve_happiness/</loc>
     <lastmod>2018-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/08/25/money_and_wealth/</loc>
+    <loc>/post/money_and_wealth/</loc>
     <lastmod>2018-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/08/19/secondary_effect/</loc>
+    <loc>/post/secondary_effect/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/08/19/exchange/</loc>
+    <loc>/post/exchange/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/08/19/the_key_of_the_problem/</loc>
+    <loc>/post/the_key_of_the_problem/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/08/19/concentration_or_dispersion/</loc>
+    <loc>/post/concentration_or_dispersion/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,7 +83,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
