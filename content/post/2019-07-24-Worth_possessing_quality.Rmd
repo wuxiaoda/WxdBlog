@@ -1,8 +1,8 @@
 ---
 title: 值得拥有的品质
 date: '2019-07-24'
-slug: Trigger
-tags: 鍝佹牸
+slug: Worth_possessing_quality
+tags: 品格
 categories: []
 ---
 

@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/trigger/</loc>
+    <loc>/post/worth_possessing_quality/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/trigger/</loc>
+    <loc>/post/in-case/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -86,12 +86,6 @@
   </url>
   
   <url>
-    <loc>/tags/%E5%A7%A3%E6%96%BF%E6%9F%A3/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/%E5%B9%B8%E7%A6%8F/</loc>
     <lastmod>2018-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -104,19 +98,19 @@
   </url>
   
   <url>
-    <loc>/tags/%E7%91%99%E5%BD%82/</loc>
+    <loc>/tags/%E6%AF%94%E5%96%BB/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E8%A7%A6%E5%8F%91/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/%E9%8D%9D%E4%BD%B9%E7%89%B8/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
