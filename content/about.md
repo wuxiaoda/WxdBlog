@@ -20,5 +20,7 @@ title: 关于
 
 ## 联系方式
 
-* Email: wussrs@126.com
-* Weixin: @ wussrs
+* 微信: wussrs
+* [豆瓣](https://www.douban.com/people/121747689/)：记录看过的书
+* [知乎](https://www.zhihu.com/people/wu-xian-da-94/answers)：强行回答
+* [Github](https://github.com/wuxiaoda)：伪码农
