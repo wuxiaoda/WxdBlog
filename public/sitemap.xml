@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/why_investing_in_indexfunds/</loc>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/opportunity_cost/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
   </url>
@@ -59,7 +64,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -92,7 +97,7 @@
   
   <url>
     <loc>/tags/%E6%8A%95%E8%B5%84/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -116,7 +121,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
