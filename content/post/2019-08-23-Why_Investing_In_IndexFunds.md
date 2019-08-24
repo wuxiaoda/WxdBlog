@@ -94,8 +94,8 @@ categories: []
 |      2016年|          -3.7%|
 |      2017年|          22.3%|
 |      2018年|         -27.4%|
-|      2019年|          28.1%|
-|      年化收益率|       10.5%|
+|   2019年8月|          28.1%|
+|  年化收益率|          10.5%|
 
 ![](https://raw.githubusercontent.com/wuxiaoda/WxdBlog/master/images/hs300PriceDescribe.png)
 
