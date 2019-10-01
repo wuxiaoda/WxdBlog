@@ -2,7 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-
-.Rproj.user/C1020939/sources/prop/INDEX
-.Rproj.user/C1020939/sources/prop/INDEX
-.Rproj.user/shared/notebooks/paths
+public
+static/figures
+blogdown
