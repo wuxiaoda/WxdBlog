@@ -1,7 +1,7 @@
 ---
 title: 买腾讯股票踩过的坑
 date: '2019-09-21'
-slug: Opportunity_Cost
+slug: Stepped_pit_of_Buy_Tencent_Stock
 tags: 投资
 categories: []
 ---
