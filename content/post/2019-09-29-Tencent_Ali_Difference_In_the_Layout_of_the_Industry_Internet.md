@@ -1,6 +1,6 @@
 
 ---
-title: 腾讯VS阿里：在产业互联网的布局有何不同？
+title: 腾讯VS阿里：在产业互联网的布局有何不同
 date: '2019-09-29'
 slug: Tencent_Ali_Difference_In_the_Layout_of_the_Industry_Internet
 tags: 投资
