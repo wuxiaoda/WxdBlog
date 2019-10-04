@@ -27,4 +27,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Github](https://github.com/wuxiaoda/WxdBlog) 2018 -- 2019 | [知乎](https://www.zhihu.com/people/wu-xian-da-94/activities)"
+    footer = "&copy; [Github](https://github.com/wuxiaoda/WxdBlog) 2018 -- 2019 | [豆瓣](https://www.douban.com/people/121747689/)"
