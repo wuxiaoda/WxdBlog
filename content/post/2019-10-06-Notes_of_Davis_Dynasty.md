@@ -30,7 +30,7 @@ categories: []
 
 他们直到二十多岁才知道自己的父亲是百万富翁。
 
-![](https://raw.githubusercontent.com/wuxiaoda/WxdBlog/master/images/%E6%90%9E%E7%AC%91_%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81.jpg)
+![搞笑_百万富翁.jpg](https://i.loli.net/2019/11/03/qUF9V2sMXxEJoSj.jpg)
 
 而爷爷戴维斯和孙子克里斯也有一段趣事。克里斯回忆道:
 

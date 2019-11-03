@@ -22,11 +22,11 @@ categories: []
 
 现今，最能验证复利效应的是巴菲特和芒格执掌的伯克希尔，其市值的增长。截止2018年，伯克希尔的年复合收益率20.7%，同期标普500的年复合收益率为9.8%。在51年的时间里，出现了图中非常惊人的变化。
 
-![](https://raw.githubusercontent.com/wuxiaoda/WxdBlog/master/images/BERKSHIRE_and_sp500.png)
+![BERKSHIRE_and_sp500.png](https://i.loli.net/2019/11/03/oDMGy8n1jLcxFNa.png)
 
 我们再做个模拟计算，假设一个人有50年的投资时间，1元的现金，在不同的年复合收益率下，最后能够变成多少。
 
-![](https://raw.githubusercontent.com/wuxiaoda/WxdBlog/master/images/CompoundInterest.png)
+![CompoundInterest.png](https://i.loli.net/2019/11/03/CAhosL2zI76yjqr.png)
 
 20%的收益率将1元变成了7万元，比15%的收益率多了8倍，比10%的收益率多了31倍。由于复利的强大，在足够长的投资期限下，资产的收益率越高，最终产生的差距就越大。这对于年轻人来说是个好消息。及早开始学习投资，就可以占据时间上的巨大优势。
 
@@ -38,13 +38,13 @@ categories: []
 
 西格尔教授对运行了两百多年的美国市场做过统计，他发现股票是长期投资中收益最高的资产，其次是长期债券、短期债券、黄金。股票市场虽然每年有涨有跌，但平均来说会以每年6.7%的收益率增长。
 
-![](https://raw.githubusercontent.com/wuxiaoda/WxdBlog/master/images/ReturnPerformanceOfUSAssets.png)
+![ReturnPerformanceOfUSAssets.png](https://i.loli.net/2019/11/03/9nfTrWNZ2cDE6Km.png)
 
 那么，这个现象是不是美国所独有的呢？伦敦商学院的Elroy Dimson、Paul marsh和Mike Staunton三位教授，花费l了14年时间，整理了12个国家在1900~2000年的资本市场原始资料，最终结论和西格尔教授的完全一致：“在所有12个国家，股票市场都是投资收益最好的”。
 
 在中国只要二十几年的数据，但结论和美国机会完全一样。代表股票市场的上证指数和深圳成指，每年可以获得10%-11%的年化收益率。
 
-![](https://raw.githubusercontent.com/wuxiaoda/WxdBlog/master/images/ReturnPerformanceOfChinAssets.png)
+![ReturnPerformanceOfChinAssets.png](https://i.loli.net/2019/11/03/JbcEtyFzMoG45rH.png)
 
 股票市场长期上涨的原因是，一个国家GDP的增长，大部分是由企业创造的。而且，上市企业的盈利能力要普遍高于一个国家所有企业的平均水平。因此，投资所有上市企业所获得的回报要高于GDP的增速。
 
@@ -97,7 +97,7 @@ categories: []
 |   2019年8月|          28.1%|
 |  年化收益率|          10.5%|
 
-![](https://raw.githubusercontent.com/wuxiaoda/WxdBlog/master/images/hs300PriceDescribe.png)
+![hs300PriceDescribe.png](https://i.loli.net/2019/11/03/TyuOc1UHEvVC8Bs.png)
 
 如果投资指数基金，能像购买银行的理财产品一样，每年都可以带来非常稳定的收益，那么显然投资指数基金这个方法早就被广泛传播，替代理财产品。有趣的事，指数没办法每年带来正收益，但在长期能够有正收益。银行理财就像是从A点到B点，走的是一条笔直的绿线；而投资指数就是从A点到C点，但是没办法走红线，只能走非常波折的蓝线。从本质上来说，到达C点显然要比到达B点好，只是中途有点波折而已。这意味着，当你知道波折必定存在，并且能够承受波折，然后再以几年甚至几十年的眼光去看待投资指数基金这件事，那么市场相应的也会给你远超其它理财产品的回报。
 
