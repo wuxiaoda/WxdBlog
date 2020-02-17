@@ -4,7 +4,6 @@ date: '2019-11-06'
 slug: Impression_of_playing_SEKIRO
 tags:
   - 游戏
-  - 学习
 categories: []
 ---
 
