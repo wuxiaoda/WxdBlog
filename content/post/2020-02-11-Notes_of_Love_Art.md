@@ -3,7 +3,7 @@ title: 《爱的艺术》笔记
 date: '2020-02-11'
 slug: Notes_of_Love_Art
 tags:
-  - 爱情
+  - 笔记
 categories: []
 ---
 
