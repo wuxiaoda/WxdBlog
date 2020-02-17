@@ -2,7 +2,7 @@
 title: 《戴维斯王朝》笔记
 date: '2019-10-06'
 slug: Notes_of_Davis_Dynasty
-tags: 投资
+tags: 笔记
 categories: []
 ---
 
