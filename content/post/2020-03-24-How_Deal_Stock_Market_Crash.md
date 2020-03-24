@@ -1,7 +1,7 @@
 ---
-title: 如何面对股市暴跌
+title: 如何应对股市暴跌
 date: '2020-03-24'
-slug: How_Face_Stock_Market_Crash
+slug: How_Deal_Stock_Market_Crash
 tags:
   - 投资
 categories: []
