@@ -20,8 +20,15 @@ title: 关于
 
 * 小说：金庸、伊坂幸太郎、东野圭吾
 
+## 投资与人生
+
+* [芒格问答集](https://github.com/wuxiaoda/Charlie-Munger)
+
+* [伯克希尔股东大会集](https://github.com/wuxiaoda/BRK-Annual-Meeting)
+
+* [投资大师访谈集](https://github.com/wuxiaoda/IMasterView)
+
 ## 联系方式
 
 * 微信: wussrs
 * [豆瓣](https://www.douban.com/people/121747689/)：记录看过的书
-* [Github](https://github.com/wuxiaoda)：伪码农
