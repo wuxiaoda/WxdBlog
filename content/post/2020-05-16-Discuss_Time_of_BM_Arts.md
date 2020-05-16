@@ -1,5 +1,5 @@
 ---
-title: 《巴芒演义》笔记之时间的讨论
+title: 《巴芒演义》之时间的讨论
 date: '2020-05-16'
 slug: Discuss_Time_of_BM_Arts
 tags:
