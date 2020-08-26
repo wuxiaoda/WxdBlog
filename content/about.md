@@ -12,13 +12,21 @@ title: 关于
 
 ## 个人兴趣
 
-* 投资
+* 量化投资、价值投资
 
 * 跑步、骑行、摄影（半吊子水平）
 
 * 影视：《悠长假期》《全职猎人》《生命的故事》《龙樱》《白日梦想家》《土拨鼠之日》《铁齿铜牙纪晓岚》《吕颂贤版笑傲江湖》......
 
 * 小说：金庸、伊坂幸太郎、东野圭吾
+
+## 投资与人生
+
+* [芒格问答集](https://github.com/wuxiaoda/Charlie-Munger)
+
+* [伯克希尔股东大会集](https://github.com/wuxiaoda/BRK-Annual-Meeting)
+
+* [投资大师访谈集](https://github.com/wuxiaoda/IMasterView)
 
 ## 联系方式
 
