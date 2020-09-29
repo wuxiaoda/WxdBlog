@@ -1,5 +1,5 @@
 ---
-title: 奖励的好与坏
+title: 奖励的正反面
 date: '2020-09-27'
 slug: Rewards_Good_Bad
 tags:
