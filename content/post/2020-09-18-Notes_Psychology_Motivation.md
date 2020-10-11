@@ -4,7 +4,7 @@ date: '2020-09-18'
 slug: Notes_Psychology_Motivation
 tags:
   - 笔记
-  — 动机
+  - 动机
 categories: []
 ---
 
