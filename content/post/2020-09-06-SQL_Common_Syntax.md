@@ -195,6 +195,59 @@ SELECT a.runoob_id, a.runoob_author, b.runoob_count FROM runoob_tbl as a, tcount
 WHERE a.runoob_author = b.runoob_author
 ```
 
+## 数据重塑
+
+宽表
+
+| Name | Company  | Sale2013 | Sale2014 | Sale2015 | Sale2016 |
+| ---- | -------- | -------- | -------- | -------- | -------- |
+| 苹果 | Apple    | 5000     | 5050     | 5050     | 5050     |
+| 脸书 | Facebook | 2300     | 2900     | 2900     | 2900     |
+| 腾讯 | Tencent  | 3100     | 3300     | 3300     | 3300     |
+
+长表
+
+| Name | Company  | YearN    | Sale |
+| ---- | -------- | -------- | ---- |
+| 苹果 | Apple    | Sale2013 | 5000 |
+| 脸书 | Facebook | Sale2013 | 2300 |
+| 腾讯 | Tencent  | Sale2013 | 3100 |
+| 苹果 | Apple    | Sale2014 | 5050 |
+| 脸书 | Facebook | Sale2014 | 2900 |
+| 腾讯 | Tencent  | Sale2014 | 3300 |
+| 苹果 | Apple    | Sale2015 | 5050 |
+| 脸书 | Facebook | Sale2015 | 2900 |
+| 腾讯 | Tencent  | Sale2015 | 3300 |
+| 苹果 | Apple    | Sale2016 | 5050 |
+| 脸书 | Facebook | Sale2016 | 2900 |
+| 腾讯 | Tencent  | Sale2016 | 3300 |
+
+* unpivot，宽表转长表
+
+```mysql
+select Name,Company,YearN,Sale from Table_A 
+unpivot (Sale for YearN in (Sale2013,Sale2014,Sale2015,sale2016))
+```
+
+* 方法一：聚合函数[max或sum]配合case语句，长表转宽表
+
+```mysql
+select Name, Company,
+sum (case YearN when 'Sale2013' then Sale else 0 end) as Sale2013, 
+sum (case YearN when 'Sale2014' then Sale else 0 end) as Sale2014,
+sum (case YearN when 'Sale2015' then Sale else 0 end) as Sale2015,
+sum (case YearN when 'Sale2016' then Sale else 0 end) as Sale2016,
+from Table_B group by Name
+```
+
+* 方法二：使用pivot，长表转宽表
+
+```mysql
+select * from Table_B 
+pivot (max(Sale) for YearN in([Sale2013], [Sale2014], [Sale2015], [Sale2016]))
+as Table_A
+```
+
 ## 正则表达式
 
 ```mysql
