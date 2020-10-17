@@ -162,6 +162,64 @@ data.loc[pd.to_datetime('2020-08-18'), 'x1']
 data[data['x1'] = 15]['x2'].values[0]
 ```
 
+## 数据重塑
+
+宽表
+
+```python
+mydata=pd.DataFrame({
+"Name":["苹果","脸书","腾讯"],
+"Conpany":["Apple","Facebook","Tencent"],
+"Sale2013":[5000,2300,3100],
+"Sale2014":[5050,2900,3300],
+"Sale2015":[5050,2900,3300],
+"Sale2016":[5050,2900,3300]
+       })
+```
+
+| Name | Company  | Sale2013 | Sale2014 | Sale2015 | Sale2016 |
+| ---- | -------- | -------- | -------- | -------- | -------- |
+| 苹果 | Apple    | 5000     | 5050     | 5050     | 5050     |
+| 脸书 | Facebook | 2300     | 2900     | 2900     | 2900     |
+| 腾讯 | Tencent  | 3100     | 3300     | 3300     | 3300     |
+
+长表
+
+| Name | Company  | YearN     | Sale |
+| ---- | -------- | -------- | ---- |
+| 苹果 | Apple    | Sale2013 | 5000 |
+| 脸书 | Facebook | Sale2013 | 2300 |
+| 腾讯 | Tencent  | Sale2013 | 3100 |
+| 苹果 | Apple    | Sale2014 | 5050 |
+| 脸书 | Facebook | Sale2014 | 2900 |
+| 腾讯 | Tencent  | Sale2014 | 3300 |
+| 苹果 | Apple    | Sale2015 | 5050 |
+| 脸书 | Facebook | Sale2015 | 2900 |
+| 腾讯 | Tencent  | Sale2015 | 3300 |
+| 苹果 | Apple    | Sale2016 | 5050 |
+| 脸书 | Facebook | Sale2016 | 2900 |
+| 腾讯 | Tencent  | Sale2016 | 3300 |
+
+* melt 宽表转长表
+
+```python
+mydata1=mydata.melt(
+id_vars=["Name","Conpany"],   #要保留的主字段
+var_name="YearN",                     #拉长的分类变量
+value_name="Sale"                  #拉长的度量值名称
+        )
+```
+
+* pivot_table：长表转宽表（数据透视的过程）
+
+```python
+mydata1.pivot_table(
+index=["Name","Conpany"],    #行索引（可以使多个类别变量）
+columns=["YearN"],                   #列索引（可以使多个类别变量）
+values=["Sale"]                       #值（一般是度量指标）
+     )
+```
+
 ## 机器学习：scikit-learn
 
 ```
