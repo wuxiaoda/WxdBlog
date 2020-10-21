@@ -193,6 +193,22 @@ ON a.runoob_author = b.runoob_author
 # 等价于
 SELECT a.runoob_id, a.runoob_author, b.runoob_count FROM runoob_tbl as a, tcount_tbl as b 
 WHERE a.runoob_author = b.runoob_author
+
+# 商品活动流水表，表名为event，字段：goods_id， time；
+# 求参加活动次数最多的商品的最近一次参加活动的时间
+
+select a.goods_id,a.time
+from event a
+inner join
+(
+select goods_id,count(*)
+from event
+group by goods_id
+order by count(*) desc
+limit 1
+) b
+on a.goods_id = b.goods_id
+order by a.goods_id,a.time desc
 ```
 
 ## 数据重塑
@@ -229,7 +245,15 @@ select Name,Company,YearN,Sale from Table_A
 unpivot (Sale for YearN in (Sale2013,Sale2014,Sale2015,sale2016))
 ```
 
-* 方法一：聚合函数[max或sum]配合case语句，长表转宽表
+* 方法一：使用pivot，长表转宽表
+
+```mysql
+select * from Table_B 
+pivot (max(Sale) for YearN in([Sale2013], [Sale2014], [Sale2015], [Sale2016]))
+as Table_A
+```
+
+* 方法二：聚合函数[max或sum]配合case语句，长表转宽表
 
 ```mysql
 select Name, Company,
@@ -238,14 +262,6 @@ sum (case YearN when 'Sale2014' then Sale else 0 end) as Sale2014,
 sum (case YearN when 'Sale2015' then Sale else 0 end) as Sale2015,
 sum (case YearN when 'Sale2016' then Sale else 0 end) as Sale2016,
 from Table_B group by Name
-```
-
-* 方法二：使用pivot，长表转宽表
-
-```mysql
-select * from Table_B 
-pivot (max(Sale) for YearN in([Sale2013], [Sale2014], [Sale2015], [Sale2016]))
-as Table_A
 ```
 
 ## 正则表达式
