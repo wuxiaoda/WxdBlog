@@ -139,8 +139,9 @@ $$
 ### 权重衰减
 
 权重衰减在每次参数更新时，引入了一个衰减系数
+
 $$
-\theta_t = (1- \beta)\theta_{t-1} - \alpha g_t
+\theta_t = (1- \beta){\theta_{t-1}} - \alpha g_t
 $$
 
 $$
