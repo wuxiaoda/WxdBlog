@@ -25,7 +25,7 @@ categories: []
 
 LS-PLM的函数表达式结合了聚类（softmax）和逻辑回归（sigmoid）。softmax将特征空间分为m部分，然后用sigmoid对每部分进行预测。表达式为：
 $$
-f(x) = \sum_{i=1}^{m}\frac{e^{u_ix}}{\sum_{j=1}^{m}e^{u_jx}}\frac{1}{1+e^{-w_xx}}
+f(x) = \sum_{i=1}^{m}{\frac{e^{u_ix}}{\sum_{j=1}^{m}e^{u_jx}}\frac{1}{1+e^{-w_xx}}}
 $$
 
 其中的超参数m是作为聚类个数的参数。m越大，可以增强模型的非线性拟合能力。
