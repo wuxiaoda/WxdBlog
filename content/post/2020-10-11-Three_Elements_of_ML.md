@@ -73,7 +73,6 @@ $$
 
 因此，在寻找损失函数的局部最小值时，会通过求损失函数求偏导来得到某个参数的梯度。然后设定学习率和初始参数，沿着梯度的反方向下降，并用真实数据迭代此过程，得出该参数的估计值。
 
-
 $$
 \theta_t = \theta_{(t-1)} - \alpha\frac{\partial {f}}{\partial \theta_{(t-1)}}
 $$
@@ -91,7 +90,7 @@ $$
 
 参数在交叉熵损失函数上的偏导为：
 $$
-\frac{\partial {R(w)}}{\partial w} = \frac{1}{N}\sum_{n=1}^Nx(\hat{y} - y)
+\frac{\partial {R(w)}}{\partial w} =\frac{1}{N}\sum_{n=1}^Nx(\hat{y}- y)
 $$
 
 采用梯度下降法，逻辑回归的训练过程为：
@@ -101,7 +100,7 @@ $$
 $$
 
 $$
-w_{t+1} \leftarrow w_t - \alpha \frac{1}{N}\sum_{n=1}^Nx(\hat{y}_{w_t} - y)
+w_{t+1} \leftarrow w_t-\alpha \frac{1}{N}\sum_{n=1}^Nx(\hat{y}_{w_t}-y)
 $$
 
 $$
