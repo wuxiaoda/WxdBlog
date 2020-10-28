@@ -100,7 +100,7 @@ $$
 $$
 
 $$
-w_{t+1} \leftarrow {{w}_t} - {\alpha} \frac{1}{N}\sum_{n=1}^N{x({\hat y}_{w_t}-y)}
+w_{t+1} \leftarrow {w}_t - {\alpha} \frac{1}{N}\sum_{n=1}^N{x({\hat y}_{w_t}-y)}
 $$
 
 $$
