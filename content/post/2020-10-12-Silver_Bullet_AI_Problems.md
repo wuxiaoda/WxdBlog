@@ -27,6 +27,7 @@ LS-PLM的函数表达式结合了聚类（softmax）和逻辑回归（sigmoid）
 $$
 f(x) = \sum_{i=1}^{m}\frac{e^{u_ix}}{\sum_{j=1}^{m}e^{u_jx}}\frac{1}{1+e^{-w_xx}}
 $$
+
 其中的超参数m是作为聚类个数的参数。m越大，可以增强模型的非线性拟合能力。
 
 ### Facebook的视频推荐模型[^2]
@@ -35,9 +36,13 @@ YouTube的收入主要来源于用户观看视频所带来的广告收入。对�
 
 具体做法是在sigmoid函数上引入观看时长，构建加权逻辑回归：
 $$
-log(\frac{T_ip}{1-T_ip}) = e^{wx+b}\\
+log(\frac{T_ip}{1-T_ip}) = e^{wx+b}
+$$
+
+$$
 其中T_i是样本i的观看时长
 $$
+
 由于在视频推荐场景中，用户打开一个视频的概率p往往很小（在1%左右），因此上式可以简化为：
 $$
 log(\frac{T_ip}{1-T_ip}) \approx log(T_ip) = e^{wx+b} = 期望观看时长
@@ -50,6 +55,8 @@ Netflix的推荐系统会根据用户的历史信息来生成影片的推荐列�
 因此Netflix的数据科学家对影片的预览图进行优化，使不同的人会看到不同的预览图。比如，一位喜欢新垣结衣的用户，更可能喜欢她主演的其它影片。于是在该用户的浏览页面上，会出现这些影片。更妙的是，这些影片的预览图会以新垣结衣为头像，并配以相应文字、背景的影片。
 
 预览图千人千面的做法，使得CTR模型的效果提升了10%。
+
+### 参考资料
 
 [^1]:[Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction](https://arxiv.org/abs/1704.05194)]
 
