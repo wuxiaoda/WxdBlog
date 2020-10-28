@@ -74,7 +74,7 @@ $$
 因此，在寻找损失函数的局部最小值时，会通过求损失函数求偏导来得到某个参数的梯度。然后设定学习率和初始参数，沿着梯度的反方向下降，并用真实数据迭代此过程，得出该参数的估计值。
 
 $$
-\theta_{t} = \theta_{(t-1)} - \alpha\frac{\partial {f}}{\partial \ theta_{(t-1)}}
+\theta_{t} = \theta_{(t-1)} - \alpha \frac{\partial {f}}{\partial \theta_{(t-1)}}
 $$
 
 注意
