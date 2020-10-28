@@ -21,7 +21,7 @@ $$
 平方损失函数用于回归问题，定义为：
 
 $$
-L(y, f(x;\theta)) = 1/2*(y-f(x;\theta))^2
+L(y, f(x;\theta)) = \frac{1}{2}*(y-f(x;\theta))^2
 $$
 
 交叉熵损失函数用于分类问题，反应的是两个概率分布的距离（不是欧式距离）。定义为：
@@ -74,7 +74,7 @@ $$
 因此，在寻找损失函数的局部最小值时，会通过求损失函数求偏导来得到某个参数的梯度。然后设定学习率和初始参数，沿着梯度的反方向下降，并用真实数据迭代此过程，得出该参数的估计值。
 
 $$
-\theta_t = \theta_{(t-1)} - \alpha\frac{\partial {f}}{\partial \theta_{(t-1)}}
+\ theta_t = \theta_{(t-1)} - \alpha\frac{\partial {f}}{\partial \ theta_{(t-1)}}
 $$
 
 注意
@@ -100,7 +100,7 @@ $$
 $$
 
 $$
-w_{t+1} \leftarrow w_t-\alpha \frac{1}{N}\sum_{n=1}^Nx(\hat{y}_{w_t}-y)
+ w_{t+1} \leftarrow w_t-\alpha \frac{1}{N}\sum_{n=1}^Nx(\hat{y}_{w_t}-y)
 $$
 
 $$
