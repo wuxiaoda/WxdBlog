@@ -1,7 +1,7 @@
 ---
 title: 算法工程师的面试题
 date: '2020-10-30'
-slug: Interview_Questions_Algorithm_Engineers
+slug: Unemployed_Youth_Job_Hunting
 tags:
   - 人工智能
 categories: []
