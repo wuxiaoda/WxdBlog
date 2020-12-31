@@ -1,5 +1,5 @@
 ---
-title: 失恋X失业X感受
+title: 失恋X失业
 date: '2020-09-16'
 slug: Lovelorn_Unemployment_Feeling
 tags:
