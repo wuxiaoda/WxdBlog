@@ -103,7 +103,7 @@ data['x1'].fillna(imputation_value, inplace=True)
 ## 分割、应用和组合
 
 ```
-data_sum = data.groupby('x1').['x2'].sum()
+data_sum = data.groupby('x1')['x2'].sum()
 
 data_sum = data.groupby('x1')['x2'].aggregate(['sum','count']) #基于x1分组，并计算x2的累加值和总数
 
