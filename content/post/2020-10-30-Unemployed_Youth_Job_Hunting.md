@@ -3,7 +3,7 @@ title: 失业青年的找工作历程
 date: '2020-10-30'
 slug: Interview_Questions_Algorithm_Engineers
 tags:
-  - 总结
+  - 人生
 categories: []
 ---
 
