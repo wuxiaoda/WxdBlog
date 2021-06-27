@@ -1,5 +1,5 @@
 ---
-title: 传奇的费曼
+title: 费曼的传奇人生
 date: '2021-06-14'
 slug: Legend_of_Feynman
 tags:
