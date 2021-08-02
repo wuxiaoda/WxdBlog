@@ -1,5 +1,5 @@
 ---
-title: 万物简史笔记
+title: 《万物简史》笔记
 date: '2018-10-06'
 slug: Note_Brief_History_Everything
 tags:
