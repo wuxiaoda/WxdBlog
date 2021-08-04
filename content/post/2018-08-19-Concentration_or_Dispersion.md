@@ -3,8 +3,7 @@ title: 集中还是分散
 date: '2018-08-19'
 slug: Concentration_or_Dispersion
 categories: []
-tags:
-  - 投资
+tags: 投资
 ---
 
 投资中有一个很有趣的问题，是应该集中投资还是分散投资。
