@@ -2,9 +2,8 @@
 title: b站是否值得投资
 date: '2018-03-30'
 slug: Bilibili_worth_investing
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
 
 b站赴美上市后，是否值得投资呢？我目前的看法是不适合投资。
