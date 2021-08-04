@@ -2,9 +2,8 @@
 title: 《万物简史》笔记
 date: '2018-10-06'
 slug: Note_Brief_History_Everything
-tags:
-  - 笔记
 categories: []
+tags: 笔记
 ---
 
 万物简史从宇宙的演化开始讲述，到地球的演化，再到万物的进化。

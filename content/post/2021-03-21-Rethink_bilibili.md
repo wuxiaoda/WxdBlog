@@ -2,12 +2,9 @@
 title: b站的再思考
 date: '2021-03-21'
 slug: Rethink_bilibili
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
-
-
 
 b站最近两年的增长可谓迅猛。2020年的年度财报，各项指标都是高增长。Q4月活达到4亿，同比增长55%；Q4月均付费用户达到1790万，同比增长103%。2019年-2020年这两年的股价更是翻了将近5倍。相比之前谈论[投资b站的逻辑](https://www.wuxiaoda.cn/post/logic_of_investing_bilibili/)，我对于b站也有了一些新的认识。
 

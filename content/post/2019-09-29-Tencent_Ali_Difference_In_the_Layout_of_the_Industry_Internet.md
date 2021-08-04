@@ -1,10 +1,9 @@
-
 ---
 title: 腾讯VS阿里：在产业互联网的布局有何不同
 date: '2019-09-29'
 slug: Tencent_Ali_Difference_In_the_Layout_of_the_Industry_Internet
-tags: 投资
 categories: []
+tags: 投资
 ---
 
 P.S.：在开智论证分析三期的结业项目，讨论过腾讯和阿里在产业互联网领域谁强谁弱的问题，但当时腾讯和阿里各自写了一篇文章，合作的人是郑嘻嘻和阿楠。现在的文章，是把它们两个放在一起比较。

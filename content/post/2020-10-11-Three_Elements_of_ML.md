@@ -2,9 +2,8 @@
 title: 机器学习三要素
 date: '2020-10-11'
 slug: Three_Elements_of_ML
-tags:
-  - 人工智能
 categories: []
+tags: 人工智能
 ---
 
 ### 模型

@@ -2,9 +2,8 @@
 title: 乐观面对股市暴跌
 date: '2020-03-24'
 slug: Optimistic_Face_Stock_Market_Crash
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
 
 

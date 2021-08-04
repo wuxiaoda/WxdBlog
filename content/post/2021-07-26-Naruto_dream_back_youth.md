@@ -2,9 +2,9 @@
 title: 火影，梦回青春
 date: '2021-07-26'
 slug: Naruto_dream_back_youth
+categories: []
 tags:
   -  娱乐
-categories: []
 ---
 
 火影是一部长篇热血漫，陪伴了我从初中到毕业的数十年时光。

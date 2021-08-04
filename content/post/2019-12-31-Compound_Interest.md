@@ -2,9 +2,8 @@
 title: 复利
 date: '2019-12-31'
 slug: Compound_Interest
-tags:
-  -  投资
 categories: []
+tags: 投资
 ---
 
 > 理解复利的魔力和获得它的困难是理解许多事情的核心和灵魂——芒格

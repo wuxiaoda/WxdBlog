@@ -2,9 +2,8 @@
 title: 腾讯的确定性
 date: '2020-01-08'
 slug: Certainty_of_Tencent
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
 
 

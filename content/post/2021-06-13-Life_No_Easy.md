@@ -2,9 +2,8 @@
 title: 人生不易
 date: '2021-05-30'
 slug: Life_No_Easy
-tags:
-  - 人生
 categories: []
+tags: 人生
 ---
 
 最近接连发生了让人感到致郁的新闻，而且都与生命有关。让我不禁感慨生命之脆弱。

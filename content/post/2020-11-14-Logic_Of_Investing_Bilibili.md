@@ -2,9 +2,8 @@
 title: 投资b站的逻辑
 date: '2020-11-14'
 slug: Logic_Of_Investing_Bilibili
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
 
 作为一个从2010年就开始逛b站的人，是最能切身地感受到b站所发生的变化的。而前几年，我每天都会看看b站的视频，竟然没有好好地去思考b站的生意模式。[2018年，对b站的思考还是太浅了](https://www.wuxiaoda.cn/post/bilibili_worth_investing/)，没有抓住用户规模这一个核心数据。如果从用户规模的角度去看，那么会发现b站这几年的增长是非常恐怖的。然后也就能顺着用户规模去想，b站是如何做到的？它的核心竞争力究竟是什么？

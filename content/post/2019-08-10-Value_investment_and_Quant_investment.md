@@ -2,8 +2,8 @@
 title: 价值投资与量化投资
 date: '2019-08-10'
 slug: Value_investment_and_Quant_investment
-tags: 投资
 categories: []
+tags: 投资
 ---
 
 

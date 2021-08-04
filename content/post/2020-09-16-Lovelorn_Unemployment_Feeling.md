@@ -2,9 +2,8 @@
 title: 失恋X失业
 date: '2020-09-16'
 slug: Lovelorn_Unemployment_Feeling
-tags:
-  - 人生
 categories: []
+tags: 人生
 ---
 
 这几个月经历了两件戳心的事，失恋与失业。分手的时候，是我正打算找工作的时间节点。于是，失恋与失业缠绕在了一起。

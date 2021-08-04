@@ -3,8 +3,7 @@ title: 意识的海洋
 date: '2018-09-09'
 slug: Ocean_of_Consciousness
 categories: []
-tags: 
-  - 笔记
+tags: 笔记
 ---
 
 ## 意识是什么

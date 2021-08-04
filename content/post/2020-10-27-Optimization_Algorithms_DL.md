@@ -2,9 +2,8 @@
 title: 深度学习中的优化算法
 date: '2020-10-27'
 slug: Optimization_Algorithms_DL
-tags:
-  - 人工智能
 categories: []
+tags: 人工智能
 ---
 
 深度学习模型的优化算法体现在网络优化和正则化。

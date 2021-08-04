@@ -2,9 +2,8 @@
 title: 算法工程师的面试题
 date: '2020-10-30'
 slug: Unemployed_Youth_Job_Hunting
-tags:
-  - 人工智能
 categories: []
+tags: 人工智能
 ---
 
 ## 算法面试问题

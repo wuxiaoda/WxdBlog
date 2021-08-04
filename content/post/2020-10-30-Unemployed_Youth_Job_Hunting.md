@@ -2,9 +2,8 @@
 title: 失业青年的找工作历程
 date: '2020-10-30'
 slug: Interview_Questions_Algorithm_Engineers
-tags:
-  - 人生
 categories: []
+tags: 人生
 ---
 
 作为找个三个月工作的人，在此分享一下整个过程中遇到的坑，以及一些面试的经验。

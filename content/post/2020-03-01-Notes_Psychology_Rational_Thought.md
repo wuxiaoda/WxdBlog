@@ -2,9 +2,10 @@
 title: 《超越智商》笔记
 date: '2020-03-01'
 slug: Notes_Psychology_Rational_Thought
-tags:
-  - 笔记
 categories: []
+tags:
+  - 决策
+  - 笔记
 ---
 
 ## 聪明人做蠢事

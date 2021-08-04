@@ -2,9 +2,8 @@
 title: 如何更好地决策
 date: '2020-03-28'
 slug: How_to_Make_Better_Becisions
-tags:
-  - 决策
 categories: []
+tags: 决策
 ---
 
 

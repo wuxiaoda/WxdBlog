@@ -2,9 +2,8 @@
 title: 《天龙八部》里的乔峰
 date: '2019-06-18'
 slug: Qiaofeng_in_Semi_Gods_Semi_Devil
-tags:
-  -  娱乐
 categories: []
+tags: 娱乐
 ---
 
 乔峰的武功是bug的存在，书里打架就没败过（除了扫地僧）。除了武功之外，其实他的智商谋略也是奇高的。在杏子林中，他智取全冠清，瞬间消弭了一场帮派大乱。

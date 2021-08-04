@@ -2,9 +2,8 @@
 title: 输赢的概率
 date: '2020-01-09'
 slug: Probability_Winning_Losing
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
 
 假设一次输赢的概率都是 50％，那么长期玩下去的人为什么仍然会更容易倾家荡产而不是收益均衡？

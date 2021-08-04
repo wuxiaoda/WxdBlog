@@ -2,9 +2,8 @@
 title: 量化选股策略
 date: '2020-08-11'
 slug: Quantitative_Stock_Select_Strategy
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
 
 量化投资可以定义为通过数据研究出市场的潜在规律，并将其转化为自动化的交易策略。自动化的要点在于严格执行策略给出的交易信号：什么时候买，买什么，买多少（卖也是如此）。

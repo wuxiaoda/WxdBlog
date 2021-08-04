@@ -2,10 +2,10 @@
 title: 疫情下的小世界网络
 date: '2020-07-04'
 slug: S_World_Network_U_Epidemic
-tags:
-  - 笔记
-  - 网络科学
 categories: []
+tags:
+  - 网络科学
+  - 笔记
 ---
 
 

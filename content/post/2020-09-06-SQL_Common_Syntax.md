@@ -2,9 +2,9 @@
 title: SQL常用语法
 date: '2020-09-06'
 slug: SQL_Common_Syntax
-tags:
-  - 机器学习
 categories: []
+tags:
+  - 编程
 ---
 
 ## 查看行数

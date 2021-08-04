@@ -2,9 +2,9 @@
 title: Python常用语法
 date: '2020-09-24'
 slug: Python_Common_Syntax
-tags:
-  - 机器学习
 categories: []
+tags:
+  - 编程
 ---
 
 ## 基础

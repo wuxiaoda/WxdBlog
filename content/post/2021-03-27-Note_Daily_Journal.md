@@ -2,9 +2,8 @@
 title: 2021年Daily-Journal笔记
 date: '2021-03-27'
 slug: Note_Daily_Journal
-tags:
-  - 投资
 categories: []
+tags: 投资
 ---
 
 边看芒格在2021年Daily Journal年会上的问答，边记笔记。记到最后，发现满满的重点。于是就摘录了对我来说非常重要的内容，并附上自己的一些感想。
