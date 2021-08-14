@@ -1,6 +1,6 @@
 ---
 title: 谁是对的人
-date: '2021-08-14'
+date: '2021-08-13'
 slug: Who_Right_People
 categories: []
 tags:
