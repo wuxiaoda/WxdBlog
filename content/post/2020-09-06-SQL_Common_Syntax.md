@@ -14,7 +14,7 @@ tags:
 select * from new_table 
 
 # 查看行名
-select columns from train;
+show columns from train;
 
 # 查看行数
 select count(*) from train; 
