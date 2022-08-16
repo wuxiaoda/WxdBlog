@@ -3,8 +3,7 @@ title: SQL常用语法
 date: '2020-09-06'
 slug: SQL_Common_Syntax
 categories: []
-tags:
-  - 编程
+tags: 人工智能
 ---
 
 ## 查看行数
