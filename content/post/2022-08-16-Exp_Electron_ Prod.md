@@ -1,3 +1,11 @@
+---
+title: 电子产品使用体验
+date: '2022-08-16'
+slug: Exp_Electron_ Prod
+categories: []
+tags: 娱乐
+---
+
 ## Airpods pro
 
 和iPhone无缝衔接。降噪功能很赞，压马路、乘地铁，基本听不到周围的声音，可以沉浸在音乐的世界里。
