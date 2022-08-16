@@ -3,9 +3,7 @@ title: 谁是对的人
 date: '2021-08-14'
 slug: Who_Right_People
 categories: []
-tags:
-  -  人生
-  -  爱
+tags: 人生
 ---
 
 在一个大城市中，“对的人”存在的概率是多少呢？
