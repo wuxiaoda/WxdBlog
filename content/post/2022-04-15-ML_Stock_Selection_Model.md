@@ -3,7 +3,7 @@ title: 机器学习选股模型
 date: '2022-04-15'
 slug: ML_Stock_Selection_Model
 categories: []
-tags: 投资
+tags: 量化
 ---
 
 在选股模型中，基于统计概率的截面选股，是比较靠谱的一种量化策略。这类策略的，持仓周期从几个小时到几个月不等。最常见的是传统的多因子模型。
