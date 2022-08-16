@@ -3,8 +3,7 @@ title: Python常用语法
 date: '2020-09-24'
 slug: Python_Common_Syntax
 categories: []
-tags:
-  - 编程
+tags:人工智能
 ---
 
 ## 基础
