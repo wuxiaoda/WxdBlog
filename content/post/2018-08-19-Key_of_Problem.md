@@ -3,7 +3,7 @@ title: 问题的关键
 date: '2018-08-19'
 slug: Key_of_Problem
 categories: []
-tags: 总结
+tags: 量化
 ---
 
 量化选股的流程主要包括因子加工，因子分析、建模（Y的定义、表现窗口等）、回测。
