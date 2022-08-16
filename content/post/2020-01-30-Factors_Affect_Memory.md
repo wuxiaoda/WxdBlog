@@ -3,9 +3,7 @@ title: 那些影响我们记忆的因素
 date: '2020-01-30'
 slug: Factors_Affect_Memory
 categories: []
-tags:
-  - 笔记
-  - 认知
+tags: 笔记
 ---
 
 
