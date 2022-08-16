@@ -3,9 +3,7 @@ title: 王兴的思想碎片
 date: '2021-06-20'
 slug: WangXing_Thought
 categories: []
-tags:
-  - 人生
-  - 投资
+tags: 投资
 ---
 
 ## 关于创业
