@@ -3,9 +3,7 @@ title: 费曼的传奇人生
 date: '2021-06-14'
 slug: Legend_of_Feynman
 categories: []
-tags:
-  - 大牛
-  - 笔记
+tags: 大牛
 ---
 
 理查德·费曼（1918-1988）是世界顶尖的物理学家、也是教育家、鼓手、画家和密码破解专家。
