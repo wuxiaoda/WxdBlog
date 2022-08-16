@@ -3,9 +3,7 @@ title: 《动机心理学》读书笔记
 date: '2020-09-18'
 slug: Notes_Psychology_Motivation
 categories: []
-tags:
-  - 动机
-  - 笔记
+tags: 笔记
 ---
 
 现在，996似乎成为了常态，特别是在大厂。之前有一个调查统计了年度加班人最多且时间长的公司top10。除去华为，剩下的都是互联网公司。
