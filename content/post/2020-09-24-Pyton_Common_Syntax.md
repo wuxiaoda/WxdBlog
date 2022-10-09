@@ -17,29 +17,11 @@ def function(a, b, c):
 
 for i in range(0,10):
 
-data = pd.read_csv(filename, usecols=['x1', 'x2', 'x3'],
-				   na_values=["NA", "N/A", "null", "NULL", "?"],
-				   encoding="UTF-8")
-				   
-data.to_csv(fielname, index=None, encoding='gbk')
-
 os.path.join(learn_dir, "Learn.txt")
 
 ",".join(['a', 'b', 'c'])
 
 var_same = [var for var in var_names if var not in ['code', 'calendarDate']]
-
-data = pd.DataFrame()
-
-f = lambda x: x.max()
-data_max = data.apply(f, axis=1) # 比较两个元素的大小，并返回最大的那个元素
-
-data['x1'].rolling(20).sum()
-data['x1'].rolling(20).std() * np.sqrt(250)
-data['x1'].shift(20)
-abs(data['x1'])
-
-data['x1'].unique()
 
 d1 = dict()
 d2 = dict()
@@ -79,52 +61,22 @@ data.iloc[1:3] # index顺序相对应
 data.loc[data['x1'] == 9, 'Y'] # 不能用data.loc[data['x1'] == 9, 3]
 ```
 
-## 合并
+## pandas操作
 
 ```
-data_all = pd.merge(data1, data2, on='x1', how='right') # 根据共有的变量X1进行合并
+data = pd.read_csv(filename, usecols=['x1', 'x2', 'x3'],
+				   na_values=["NA", "N/A", "null", "NULL", "?"],
+				   encoding="UTF-8")
+				   
+data.to_csv(fielname, index=None, encoding='gbk')
 
-data = pd.concat([data1, data2], axis=0, ignore_index=True) # 对行进行叠加，增加行
-data = pd.concat([data1, data2], axis=1)  # 对列进行叠加，增加列。其中两个数据集的行索引相同、列名不同
-```
+data = pd.DataFrame()
 
-## 缺失值
-
-```
-data.isna().any() #判断是否存在缺失值
-np.isnan(data['x1']) # 判断是否有缺失值
-
-y_nan = data['Y'].isnull() # 处理缺失值
-data = data[~y_nan]
-
-data = data.fillna(method='ffill') # 原始特征的缺失值使用上一期填补
-data['x1'].fillna(imputation_value, inplace=True)
-```
-
-## 分割、应用和组合
-
-```
-data_sum = data.groupby('x1')['x2'].sum()
-
-data_sum = data.groupby('x1')['x2'].aggregate(['sum','count']) #基于x1分组，并计算x2的累加值和总数
-
-data_sum = data.groupby('x1').aggregate({'x2':'min', 'x3':'max'})
-
-data_sum = data.groupby('x1').apply(func)
-```
-
-## 数据框
-
-```
 data[((data['x1'] >3) & (data['x1'] <5))]
 
 ind0 = Y[Y == 0].index
 
 data = data.reset_index(drop=True)
-
-data.drop_duplicates(['x1'], inplace=True, keep='first')
-data.drop_duplicates(subset=['x1', 'x2'], keep='first', inplace=True)
-data.drop(columns=['x1'], inplace=True)
 
 k = data["x1"].quantile(q=[0, 0.5, 0.9])
 k.loc[0.5]
@@ -138,8 +90,6 @@ dataprocess['x2'] = [5, 10, 15]
 
 data.columns = ['a', 'b']
 
-data['x1'].astype(int).sum()
-
 data.shape[0] # 行数
 data.shape[1] # 列数
 nrows, ncols = data.shape
@@ -148,10 +98,6 @@ len(data['x1'])
 data['x1'].idxmin()
 data['x1'].idxmax() # 最大和最小元素的索引
 data['x1'].index(max(data['x1']))
-
-data['x1'].cumsum()
-data['x1'].cumprod()
-n1 = data['x1'][data['x1'] == 1].count()
 
 pd.date_range('2014-01-01', '2020-08-18', freq='M')
 
@@ -162,6 +108,66 @@ data.loc[pd.to_datetime('2020-08-18'), 'x1']
 
 data[data['x1'] = 15]['x2'].values[0]
 ```
+
+## 合并
+
+```
+data_all = pd.merge(data1, data2, on='x1', how='right') # 根据共有的变量X1进行合并
+
+data = pd.concat([data1, data2], axis=0, ignore_index=True) # 对行进行叠加，增加行
+data = pd.concat([data1, data2], axis=1)  # 对列进行叠加，增加列。其中两个数据集的行索引相同、列名不同
+```
+
+## 数据处理
+
+```
+data.isna().any() #判断是否存在缺失值
+np.isnan(data['x1']) # 判断是否有缺失值
+
+y_nan = data['Y'].isnull() # 处理缺失值
+data = data[~y_nan]
+
+data = data.fillna(method='ffill') # 原始特征的缺失值使用上一期填补
+data['x1'].fillna(imputation_value, inplace=True)
+
+data.drop_duplicates(['x1'], inplace=True, keep='first')
+data.drop_duplicates(subset=['x1', 'x2'], keep='first', inplace=True)
+data.drop(columns=['x1'], inplace=True)
+```
+
+## 分割、应用和组合
+
+```
+data_sum = data.groupby('x1')['x2'].sum()
+
+data_sum = data.groupby('x1')['x2'].agg(['sum','count']) #基于x1分组，并计算x2的累加值和总数
+
+data_sum = data.groupby('x1').agg({'x2':'min', 'x3':'max'})
+
+data_sum = data.groupby('x1').apply(func)
+```
+
+## 统计分析
+
+```
+
+data['x1'].astype(int).sum()
+
+data['x1'].unique()
+
+f = lambda x: x.max()
+data_max = data.apply(f, axis=1) # 比较两个元素的大小，并返回最大的那个元素
+
+data['x1'].cumsum()
+data['x1'].cumprod()
+n1 = data['x1'][data['x1'] == 1].count()
+
+data['x1'].rolling(20).sum()
+data['x1'].rolling(20).std() * np.sqrt(250)
+data['x1'].shift(20)
+abs(data['x1'])
+```
+
 
 ## 数据重塑
 
