@@ -223,7 +223,7 @@ value_name="Sale"                  #拉长的度量值名称
 mydata1.pivot_table(
 index=["Name","Conpany"],    #行索引（可以使多个类别变量）
 columns=["YearN"],                   #列索引（可以使多个类别变量）
-values=["Sale"]                       #值（一般是度量指标）
+values="Sale"                       #值（一般是度量指标）
      )
 ```
 
